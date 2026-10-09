@@ -1,2 +1,2 @@
 require "spec"
-require "../src/feedsmith-cr"
+require "../src/feedsmith"

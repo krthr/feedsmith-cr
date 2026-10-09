@@ -1,4 +1,4 @@
-name: feedsmith-cr
+name: feedsmith
 version: 0.1.0
 description: Native Crystal parser and generator for RSS, Atom, RDF, JSON Feed, and OPML.
 
