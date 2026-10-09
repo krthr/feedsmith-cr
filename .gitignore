@@ -1,4 +1,7 @@
-/docs/
+# Generated documentation, except agent configuration and ADRs
+/docs/*
+!/docs/agents/
+!/docs/adr/
 /lib/
 /bin/
 /.shards/
