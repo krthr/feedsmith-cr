@@ -1,0 +1,3 @@
+[submodule "feedsmith-js"]
+	path = feedsmith-js
+	url = git@github.com:macieklamberski/feedsmith.git
